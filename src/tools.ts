@@ -113,7 +113,7 @@ export default function getTools(
 		alignment: {
 			class: Alignment,
 			config:{
-        default: "right",
+        default: "left",
 			}
 		},
 		audio: {
