@@ -3,7 +3,7 @@
 	"description": "Editor js block editor interface for directus",
 	"author": "Mohamed Maher <muhamed.elrefaie@gmail.com>",
 	"icon": "extension",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "GPL-3.0",
 	"repository": {
 		"type": "git",
