@@ -2,10 +2,6 @@
 
 ![](https://raw.githubusercontent.com/melrefaie/directus-extension-block-editor-interface/main/docs/1.png)
 
-[![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
-[![License][license-src]][license-href]
-
 Block-styled editor for rich media stories, outputs clean data in JSON. More info at https://editorjs.io/
 
 ## Installation
